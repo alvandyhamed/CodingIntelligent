@@ -1,0 +1,6 @@
+
+^
+java:S1854"<Remove this useless assignment to local variable "conectDb".(ç€™şıÿÿÿÿ8¼«Ûæâ.
+O
+java:S1481"-Remove this unused "conectDb" local variable.(ç€™şıÿÿÿÿ8¼«Ûæâ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á»šäÿÿÿÿÿ

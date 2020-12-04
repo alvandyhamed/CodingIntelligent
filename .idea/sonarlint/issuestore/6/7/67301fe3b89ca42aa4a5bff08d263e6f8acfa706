@@ -1,0 +1,19 @@
+
+2
+java:S1643"Use a StringBuilder instead.(ãì‚Ö
+7
+java:S1643"Use a StringBuilder instead.(â²çÖúÿÿÿÿ
+7
+java:S1643 "Use a StringBuilder instead.(ÓÚ†ùûÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+J
+java:S1128"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜
+<
+java:S1110"!Remove these useless parentheses.(â²çÖúÿÿÿÿ
+J
+java:S1854("5Remove this useless assignment to local variable "i".(¾Õê
+M	java:S106*"9Replace this use of System.out or System.err by a logger.(‚Û—`
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(Æíºüÿÿÿÿ
+;
+java:S1481("&Remove this unused "i" local variable.(¾Õê

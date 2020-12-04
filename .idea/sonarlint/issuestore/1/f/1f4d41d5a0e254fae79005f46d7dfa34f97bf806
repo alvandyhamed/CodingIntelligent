@@ -1,0 +1,14 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÛôÆ—ÿÿÿÿÿ
+2
+java:S1643	"Use a StringBuilder instead.(ãì‚Ö
+7
+java:S1643"Use a StringBuilder instead.(â²çÖúÿÿÿÿ
+7
+java:S1643"Use a StringBuilder instead.(ÓÚ†ùûÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ÛôÆ—ÿÿÿÿÿ
+<
+java:S1110"!Remove these useless parentheses.(â²çÖúÿÿÿÿ

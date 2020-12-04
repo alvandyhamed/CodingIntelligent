@@ -1,0 +1,6 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•λάο
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(αΡΆ²8γΊΣμβ.
+V
+java:S5993	"9Change the visibility of this constructor to "protected".(­—’Υ8νήμβ.
+p	java:S116"TRename this field "Addresses" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(χΥ™8«Ενμβ.

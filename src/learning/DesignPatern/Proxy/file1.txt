@@ -1,0 +1,5 @@
+thi is a testing file for Proxy DesignPattern
+
+@Hamed
+@Hamid
+@Hesam

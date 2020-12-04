@@ -1,0 +1,10 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„õæÌşÿÿÿÿ
+p
+java:S1104%"SMake gatways a static final constant or non-public and provide accessors if needed.(ï®ŠĞ8Ô Í¨â.
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÂ±½ûÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(£Œ¾Şûÿÿÿÿ8«ïå¨â.
+d	java:S116$"ORename this field "Info" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÕŒâ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êƒ›Œÿÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‡Ÿ‹8è‚â¨â.
+j	java:S100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¿ìÍ8Ô Í¨â.

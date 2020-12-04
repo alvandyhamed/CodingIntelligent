@@ -1,0 +1,8 @@
+
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şˆ­ƒ8ş¦şÎâ.
+Z
+java:S1610"8Convert the abstract class "Logistic" into an interface.(„ùïéùÿÿÿÿ8½ÙúÎâ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ùãÁüÿÿÿÿ
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éïÆ›øÿÿÿÿ8ş‡ÙÑâ.
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Şˆ­ƒ8ş¦şÎâ.

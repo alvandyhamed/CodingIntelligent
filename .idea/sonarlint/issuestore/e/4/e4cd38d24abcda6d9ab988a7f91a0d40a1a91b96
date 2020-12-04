@@ -1,0 +1,13 @@
+
+j	java:S100	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾’™æ8‡‚«­â.
+r	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹œ€åùÿÿÿÿ8©Œ°®â.
+s	java:S116>"RRename this field "Priorty" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÙøçûÿÿÿÿ8Ø¾Œ­â.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÆ§8Â×­â.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ŠÉ±
+˜
+java:S1845	"{Rename method "Notify" to prevent any misunderstanding/clash with method "notify" defined in superclass "java.lang.Object".(¾’™æ8‡‚«­â.
+q	java:S116"PRename this field "Event" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËªÖŞÿÿÿÿÿ8‘Ì­â.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( µü»8İƒ ­â.
+x	java:S116"WRename this field "ObserverList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àå¬–şÿÿÿÿ8ÒÍ–­â.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œëüÀ8İƒ ­â.
+]	java:S125A"<This block of commented-out lines of code should be removed.(…¶›—úÿÿÿÿ8É¸©Éâ.

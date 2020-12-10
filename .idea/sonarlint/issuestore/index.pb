@@ -151,3 +151,15 @@ h
 8src/learning/DesignPatern/TemplateMethode/PaperBook.java,c/2/c2833a7b55732d616da7e8efdb5c102b39356c16
 h
 8src/learning/DesignPatern/TemplateMethode/MainClass.java,9/7/97eb2b9ca82ab08e8094688ea9f2c3b4487db7a1
+a
+1src/learning/DesignPatern/Composit/MainClass.java,c/9/c90df658af5375f57c1279602c47f7db760a3956
+\
+,src/learning/DesignPatern/Composit/Form.java,f/8/f8270a0b2af50eee818476363106ce317315257e
+`
+0src/learning/DesignPatern/Composit/FieldSet.java,d/8/d8cd7e41f78322af087b27b63b521cc70388f464
+f
+6src/learning/DesignPatern/Composit/FieldComposite.java,7/e/7e32ae822620fcc9e353b86f10abee2391472a5b
+]
+-src/learning/DesignPatern/Composit/Input.java,f/2/f2c12e9d310d495eba1f81060c97b9dc4ffa843b
+c
+3src/learning/DesignPatern/Composit/FormElement.java,c/9/c996b05bdd254117d10185a2020953f390811c6c

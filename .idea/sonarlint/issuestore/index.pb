@@ -313,3 +313,13 @@ g
 7src/HackerRank/Interview1/WarmUp/LeftRotation/Main.java,1/9/1928b119caec3fa9a28dd5c6926e20c010b046fe
 k
 ;src/HackerRank/Interview1/WarmUp/LeftRotation/Solution.java,8/6/86e17379ebbbcb024b6ed338a966e2ada00d56db
+I
+src/Binumbers/BigSum.java,2/6/264622bbfd26ff6e4ec17aa50dca6602f484d636
+G
+src/Binumbers/Main.java,5/b/5b320d0e276ba464483c52497af7cc8511a0e035
+J
+src/Binumbers/Numbers.java,f/6/f67a3e673190b68bd28b0bb3ce1e4cf82aa417a9
+k
+;src/HackerRank/Interview1/WarmUp/NewYearChaos/Solution.java,6/a/6aff08e518e9d47d82f329faf442f9da7346a585
+g
+7src/HackerRank/Interview1/WarmUp/NewYearChaos/Main.java,6/2/62ca32c8a84b519d7f78dc02a7d0cbcc01f825d5

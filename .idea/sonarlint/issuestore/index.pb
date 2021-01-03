@@ -339,3 +339,11 @@ e
 5src/HackerRank/Interview1/WarmUp/TwoStrings/Main.java,3/a/3a7249e4154b57108518201f4d88ac0c82c4a7fd
 i
 9src/HackerRank/Interview1/WarmUp/TwoStrings/Solution.java,d/6/d6ec83e07eebe314c88fa49042f5378c0ff5e434
+n
+>src/HackerRank/Interview1/WarmUp/SherlockandAnagrams/Main.java,7/7/77e7c31d1620a2cbdc07ce50a17f28637c29939d
+r
+Bsrc/HackerRank/Interview1/WarmUp/SherlockandAnagrams/Solution.java,1/1/115d551d337f751129a33dade6b70f130bf9d720
+h
+8src/HackerRank/Interview1/WarmUp/CountTriplets/Main.java,2/1/2184015753a80f3c43bb80244f3d9f6c28934b2f
+l
+<src/HackerRank/Interview1/WarmUp/CountTriplets/Sulotion.java,6/8/6858ccfe2a2b71448ed0a715089cff2493216b1f

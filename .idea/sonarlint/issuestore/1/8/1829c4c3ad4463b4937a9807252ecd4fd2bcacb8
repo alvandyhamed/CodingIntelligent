@@ -1,0 +1,7 @@
+
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÆÄ+8–½àÐã.
+[
+java:S5993"9Change the visibility of this constructor to "protected".(É²ÝÏÿÿÿÿÿ8«íÈÐã.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(³çÒÆþÿÿÿÿ8Ùµ²Ðã.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶òñêüÿÿÿÿ

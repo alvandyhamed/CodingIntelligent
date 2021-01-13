@@ -1,0 +1,9 @@
+
+|
+java:S4165"_Remove this useless assignment; "j" already holds the assigned value along all execution paths.(Ûëàï8Õ¯¥¸é.
+L
+java:S1656"/Remove or correct this useless self-assignment.(Ûëàï8Õ¯¥¸é.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§×¿üøÿÿÿÿ
+m	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å½œ’8ÑÈ¸é.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(æÌ†Ãşÿÿÿÿ8àó÷µé.

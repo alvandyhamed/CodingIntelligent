@@ -1,0 +1,11 @@
+
+]	java:S125+"<This block of commented-out lines of code should be removed.(†ûÇ«úÿÿÿÿ8ºèÔùì.
+U
+java:S1854"8Remove this useless assignment to local variable "temp".(ìÍÈÍ8ë¾Öùì.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ê¶ñ
+\
+java:S1118":Add a private constructor to hide the implicit public one.(æÌ†Ãşÿÿÿÿ8ë¾Öùì.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ì‘ºıÿÿÿÿ8ë¾Öùì.
+=
+java:S3626"Remove this redundant jump.(œœâ¥ûÿÿÿÿ8ë¾Öùì.

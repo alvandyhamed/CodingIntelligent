@@ -1,0 +1,16 @@
+
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(÷Òø­ýÿÿÿÿ8ŽÊ‰îî.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ŽÊ‰îî.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(óç†'8ŽÊ‰îî.
+T	java:S106("9Replace this use of System.out or System.err by a logger.(óç†'8ŽÊ‰îî.
+X	java:S1252"<This block of commented-out lines of code should be removed.(ø—“Á8ŽÊ‰îî.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¥—œÄûÿÿÿÿ8ŠÁçî.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ÁÑþþÿÿÿÿ
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ŽÊ‰îî.
+T	java:S106
+"9Replace this use of System.out or System.err by a logger.(óç†'8ŽÊ‰îî.
+Z
+java:S1197"8Move the array designator from the variable to the type.(Ú‹ã£üÿÿÿÿ8ŽÊ‰îî.
+X	java:S1256"<This block of commented-out lines of code should be removed.(ø—“Á8ŽÊ‰îî.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ŽÊ‰îî.

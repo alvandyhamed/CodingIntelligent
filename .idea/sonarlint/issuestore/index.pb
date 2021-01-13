@@ -371,3 +371,11 @@ x
 Hsrc/HackerRank/Interview1/Sort/FraudulentActivityNotifications/Main.java,b/4/b4816d5f02f0eb4c76f8ebc34bc46d644641bf47
 |
 Lsrc/HackerRank/Interview1/Sort/FraudulentActivityNotifications/Solution.java,b/7/b751ef9c0e32b6bb0e5884a8fefa2965447981e4
+a
+1src/HackerRank/Interview1/Sort/Mergsort/Main.java,c/a/cae595b9747b0271920f1ee76d752cb119341886
+k
+;src/HackerRank/Interview1/Sort/MergSortinversions/Main.java,8/4/8427a25f1bfd7a8c96eeac1d3a492d240874d783
+p
+@src/HackerRank/Interview1/Sort/MergSortinversions/Solutions.java,7/6/76c0d36e54cbadd0321d594747eaea44b71ab352
+f
+6src/HackerRank/Interview1/Sort/Mergsort/Sulotions.java,d/4/d4f9259fc2ec63c30320d027162fb4f9d40cd2a4

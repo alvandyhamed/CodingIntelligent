@@ -1,0 +1,6 @@
+
+x
+java:S1450"VRemove the "builder" field and declare it as a local variable in the relevant methods.(ÚÁîµøÿÿÿÿ8–ç”‰å.
+M
+java:S1068"+Remove this unused "builder" private field.(ÚÁîµøÿÿÿÿ8¸”‰å.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êÜ›´üÿÿÿÿ

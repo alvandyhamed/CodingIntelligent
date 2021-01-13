@@ -1,0 +1,6 @@
+
+d
+java:S1192"GDefine a constant instead of duplicating this literal "String" 3 times.(€Á¿ò8ŒÄó¡ä.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(â‚ßùÿÿÿÿ8®Ù—¢ä.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÈéİ8ˆé¢ä.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±§ ›

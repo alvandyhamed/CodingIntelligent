@@ -1,0 +1,9 @@
+
+O
+java:S1068"-Remove this unused "movieList" private field.(б├яЇ¤    8цибЇф.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ж┘ъ▒·    
+Q
+java:S3740"/Provide the parametrized type for this generic.(б├яЇ¤    8цибЇф.
+M
+java:S1068"0Remove this unused "Moviposition" private field.(Э╛▀╘8цибЇф.
+s	java:S116"WRename this field "Moviposition" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Э╛▀╘8цибЇф.

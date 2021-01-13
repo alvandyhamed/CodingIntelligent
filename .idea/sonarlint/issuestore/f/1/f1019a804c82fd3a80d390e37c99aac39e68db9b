@@ -1,0 +1,9 @@
+
+…
+java:S4165"cRemove this useless assignment; "state" already holds the assigned value along all execution paths.(†ó­Åúÿÿÿÿ8²õõä.
+Q
+java:S1656"/Remove or correct this useless self-assignment.(†ó­Åúÿÿÿÿ8²õõä.
+F
+java:S1068")Remove this unused "state" private field.(µ½İí8ÊÒóõä.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»ü‹‡
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€°¤8ÜŞÕõä.

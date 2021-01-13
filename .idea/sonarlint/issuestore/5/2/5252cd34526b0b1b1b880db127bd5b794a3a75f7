@@ -1,0 +1,11 @@
+
+>
+java:S1643
+"Use a StringBuilder instead.(Òº°½ÿÿÿÿÿ8æŞõŸå.
+>
+java:S1643"Use a StringBuilder instead.(¬ôÛˆøÿÿÿÿ8ÅÚ‚ å.
+>
+java:S1643"Use a StringBuilder instead.(Ïçíüÿÿÿÿ8ÅÚ‚ å.
+F
+java:S1481")Remove this unused "skip" local variable.(ãşÚ»8…äíŸå.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Æû‚Òşÿÿÿÿ

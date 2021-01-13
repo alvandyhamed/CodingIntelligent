@@ -1,0 +1,9 @@
+
+E
+java:S1481")Remove this unused "find" local variable.(òò¬98ŒÖ²îå.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(¿ƒŞüûÿÿÿÿ8’÷Ûîå.
+T
+java:S1854"8Remove this useless assignment to local variable "find".(òò¬98ŒÖ²îå.
+W	java:S125""<This block of commented-out lines of code should be removed.(Ó“ô
+8¥›âîå.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğ½öëÿÿÿÿÿ

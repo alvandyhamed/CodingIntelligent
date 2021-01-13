@@ -1,0 +1,16 @@
+
+Z
+java:S1128"=Remove this unused import 'java.lang.annotation.ElementType'.(’åÕÛ8ìÙÅ ä.
+M
+java:S1172"+Remove this unused method parameter "data".(¹—ÁÖûÿÿÿÿ8›úå ä.
+V
+java:S5993"9Change the visibility of this constructor to "protected".(¶ßË8Ê½ ä.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±§ ›
+>
+java:S1643*"Use a StringBuilder instead.(¹Ÿ¢éøÿÿÿÿ8¸¨¢ä.
+º
+java:S1845"—Rename method "setdata" to prevent any misunderstanding/clash with method "setData" defined in superclass "learning.DesignPatern.Composit.FormElement".(¹—ÁÖûÿÿÿÿ8¸¨¢ä.
+µ
+java:S1845"—Rename method "getdata" to prevent any misunderstanding/clash with method "getData" defined in superclass "learning.DesignPatern.Composit.FormElement".(åãîĞ8¸¨¢ä.
+l
+java:S2175"OA "Map<String, FormElement>" cannot contain a "FormElement" in a "String" type.(ú»¨ş8¸¨¢ä.

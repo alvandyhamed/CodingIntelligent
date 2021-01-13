@@ -1,0 +1,13 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»™”àúÿÿÿÿ
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§è—8ÂÇóûâ.
+K
+java:S1172")Remove this unused method parameter "to".(À‘ÿÍûÿÿÿÿ8²¯ñûâ.
+Q
+java:S1172
+"4Remove this unused method parameter "email_address".(Á…¬Õ8´Ó÷ûâ.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À‘ÿÍûÿÿÿÿ8²¯ñûâ.
+K
+java:S1172".Remove this unused method parameter "subject".(§è—8´Ó÷ûâ.
+m	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á…¬Õ8´Ó÷ûâ.

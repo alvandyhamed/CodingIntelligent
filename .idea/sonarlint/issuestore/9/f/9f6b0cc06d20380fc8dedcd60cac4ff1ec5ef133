@@ -1,0 +1,7 @@
+
+o	java:S100	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëıÁšüÿÿÿÿ8ÃÔòä.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦Ùê±úÿÿÿÿ
+t	java:S116"SRename this field "MoviList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ü«óüÿÿÿÿ8¹²Íòä.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á•–´ûÿÿÿÿ8€’Øòä.
+M
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18¹²Íòä.

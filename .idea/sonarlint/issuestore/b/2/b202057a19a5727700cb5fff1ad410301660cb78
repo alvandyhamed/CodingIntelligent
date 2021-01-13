@@ -1,0 +1,8 @@
+
+D
+java:S1172"(Remove this unused method parameter "k".(Æ…¼8Ôéˆºè.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(˜¬€Øýÿÿÿÿ8ë’ÿ¹è.
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Æ…¼8ùˆáâè.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã›«åøÿÿÿÿ

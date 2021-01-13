@@ -1,0 +1,35 @@
+
+Z	java:S106e"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8¨ªû”è.
+i
+java:S3973F"GUse indentation to denote the code conditionally executed by this "if".(àƒˆþÿÿÿÿ8Ù¡”è.
+t	java:S135D"YReduce the total number of break and continue statements in this loop to use at most one.(ÁôÏ8Óüø”è.
+U	java:S106c"9Replace this use of System.out or System.err by a logger.(Ÿï°ó8¨ªû”è.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(é½¿‘úÿÿÿÿ8‡Š¢”è.
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ÑŠÔ’è.
+i
+java:S3973;"GUse indentation to denote the code conditionally executed by this "if".(àƒˆþÿÿÿÿ8³«”è.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÷•‹ýÿÿÿÿ8ÖÄÇ’è.
+S
+java:S5261K"1Add explicit curly braces to avoid dangling else.(ÁªÈ›øÿÿÿÿ8ˆÚø”è.
+`
+java:S1128">Remove this unused import 'java.util.function.BinaryOperator'.(Žžº÷ùÿÿÿÿ8æ÷§“è.
+u	java:S135O"YReduce the total number of break and continue statements in this loop to use at most one.(í¨ò½8Îÿú”è.
+S
+java:S5261U"1Add explicit curly braces to avoid dangling else.(ÁªÈ›øÿÿÿÿ8¨ªû”è.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é½¿‘úÿÿÿÿ8ï˜¼’è.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é½¿‘úÿÿÿÿ8ï˜¼’è.
+d
+java:S3973/"GUse indentation to denote the code conditionally executed by this "if".(‡€½ù8Û¤¨•è.
+W
+java:S1854"5Remove this useless assignment to local variable "q".(ÙÒ®Èÿÿÿÿÿ8Úè¥•è.
+S
+java:S5261?"1Add explicit curly braces to avoid dangling else.(ÁªÈ›øÿÿÿÿ8–Ãô”è.
+t	java:S135-"YReduce the total number of break and continue statements in this loop to use at most one.(ÁôÏ8™‰©•è.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã›«åøÿÿÿÿ
+\
+java:S1118":Add a private constructor to hide the implicit public one.(æÌ†Ãþÿÿÿÿ8ï˜¼’è.
+u	java:S1359"YReduce the total number of break and continue statements in this loop to use at most one.(í¨ò½8Žñõ”è.
+S
+java:S52613"1Add explicit curly braces to avoid dangling else.(ÁªÈ›øÿÿÿÿ8Û¤¨•è.

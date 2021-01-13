@@ -1,0 +1,14 @@
+
+Y
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8è¿ãÃå.
+Z
+java:S1197	"8Move the array designator from the variable to the type.(¡÷úÿÿÿÿ8ŸÙËÁå.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(éºÉúÿÿÿÿ8›¢éÁå.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Êß¯í8äîéÃå.
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8áÉÃå.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Î†›®8†ë«Ãå.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ªÑ…8Š®öÃå.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ç©Â¢øÿÿÿÿ
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8è¿ãÃå.

@@ -1,0 +1,9 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(× ïÇ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûı8«¹À÷ä.
+`
+java:S1854">Remove this useless assignment to local variable "nullclient".(ä±±œÿÿÿÿÿ8®—¸÷ä.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯µí«ùÿÿÿÿ8ë·÷ä.
+Q
+java:S1481"/Remove this unused "nullclient" local variable.(ä±±œÿÿÿÿÿ8¨°¸÷ä.
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ø£Â÷ä.

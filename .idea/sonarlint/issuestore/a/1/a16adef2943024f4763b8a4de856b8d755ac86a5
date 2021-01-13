@@ -1,0 +1,9 @@
+
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8ŽÌŸÆå.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’°Ã„
+Q
+java:S1128"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8ŽÌŸÆå.
+d
+java:S1126"BReplace this if-then-else statement by a single method invocation.(±Ìø×ýÿÿÿÿ8ŽÌŸÆå.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“À„Ü8ŽÌŸÆå.

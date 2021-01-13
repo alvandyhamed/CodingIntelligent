@@ -1,0 +1,10 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(£¼Ú¸8Ù”²å.
+H
+java:S1481"+Remove this unused "answer" local variable.(¿Æ’È8üîùœå.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö·¦øÿÿÿÿ
+O
+java:S1481"-Remove this unused "solution" local variable.(ËÊüşÿÿÿÿ8ƒÛ²å.
+^
+java:S1854"<Remove this useless assignment to local variable "solution".(ËÊüşÿÿÿÿ8ƒÛ²å.
+U	java:S106""9Replace this use of System.out or System.err by a logger.(¡¼Ğ™8Ù¦Õå.

@@ -1,0 +1,29 @@
+
+o	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øıˆŞüÿÿÿÿ8Ì÷ñõä.
+j	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›íõê8Ğ«ıõä.
+
+java:S11866"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÊŒãÏ8æı°öä.
+V
+java:S3400"9Remove this method and declare a constant for this value.(À¨ÑÌ8¿°Ñöä.
+o	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÿáûÿÿÿÿ8–˜ûõä.
+p	java:S116	"TRename this field "PlayeList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âèÿË8Ø’Æõä.
+
+java:S11863"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¤ıã8æı°öä.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»ü‹‡
+o	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚŸæüÿÿÿÿ8æı°öä.
+£
+java:S11869"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÚŸæüÿÿÿÿ8æı°öä.
+£
+java:S11867"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(îüÈ¨ıÿÿÿÿ8æı°öä.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şœ¸Şıÿÿÿÿ8¢ÊÕöä.
+£
+java:S11868"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ò€¦­ıÿÿÿÿ8æı°öä.
+i	java:S116"MRename this field "Ui" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ıí8­ÎÃõä.
+£
+java:S1186:"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÀÈÍ‰ûÿÿÿÿ8æı°öä.
+q	java:S116"PRename this field "Value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šµ±¶øÿÿÿÿ8Ø’Æõä.
+[
+java:S3400"9Remove this method and declare a constant for this value.(¤Ò•öúÿÿÿÿ8¢ÊÕöä.
+o	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ğ€°ÿÿÿÿÿ8Âšşõä.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÎ»¬8İë¿öä.
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öâİV8‚˜Ôöä.

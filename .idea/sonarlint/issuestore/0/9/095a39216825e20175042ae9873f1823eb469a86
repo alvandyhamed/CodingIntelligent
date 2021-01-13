@@ -1,0 +1,13 @@
+
+V
+java:S3400
+"9Remove this method and declare a constant for this value.(‚¯†8Œï¸ïâ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò³î’şÿÿÿÿ8áÍµïâ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Šâî„
+M
+java:S1172"+Remove this unused method parameter "user".(ßı£áúÿÿÿÿ8ÂŒ²ïâ.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò³î’şÿÿÿÿ8öÂ´ïâ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò³î’şÿÿÿÿ8áÍµïâ.
+H
+java:S1172"&Remove these unused method parameters.(Ò³î’şÿÿÿÿ8Œï¸ïâ.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßı£áúÿÿÿÿ8–®ïâ.

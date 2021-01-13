@@ -1,0 +1,14 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(æ®Æ 8¦“ùŠå.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı˜á«ÿÿÿÿÿ
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(à³Ñ8ÚÿûŠå.
+L
+java:S3740
+"/Provide the parametrized type for this generic.(Ğ »ß8˜áğŠå.
+Q
+java:S1128"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8·—æŠå.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÅãäŠå.
+E	java:S108")Either remove or fill this block of code.(”ı¾8ûÎ€‹å.
+p	java:S116
+"TRename this field "BANDS_IPS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ »ß8˜áğŠå.
